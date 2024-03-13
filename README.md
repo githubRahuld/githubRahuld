@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/79020081/190893548-d35f5e6d-49bb-4a9b-864a-9ac126dd01aa.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rahul Dhakad</h1>
-<h3 align="center">I am a coder and a full stack developer, Learning and exploring new technologies.</h3>
+<h3 align="center">I am a coder and a MERN stack developer, Learning and exploring new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
