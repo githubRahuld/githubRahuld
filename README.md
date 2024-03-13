@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahuldh94738879" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldh94738879?logo=twitter&style=for-the-badge" alt="rahuldh94738879" /></a> </p>
 
-- 💬 Ask me about **MongoDB,NodeJS,ExpressJS**
+- 💬 Ask me about **MongoDB,NodeJS,ExpressJS,JavaScript,ReactJs**
 
 - 📫 How to reach me **rahuldhakad201.rd@gmail.com**
 
