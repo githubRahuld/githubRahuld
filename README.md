@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rahuldhakad201.rd@gmail.com**
 
-- 📄 Know about my experiences/Resume [[https://drive.google.com/file/d/1yMv9WorlnT8ERnpMIyg3VuyxqjOyRa1x/view?usp=drive_link](https://drive.google.com/file/d/1F6sySggGwx5mETDego7QHP6rD3FPg7HY/view?usp=drive_link)]
+- 📄 Know about my experiences/Resume [[https://drive.google.com/file/d/1yMv9WorlnT8ERnpMIyg3VuyxqjOyRa1x/view?usp=drive_link]([https://drive.google.com/file/d/1F6sySggGwx5mETDego7QHP6rD3FPg7HY/view?usp=drive_link](https://drive.google.com/file/d/1LLMXLclyYth2WfIEkxIYcJChubP0jhcs/view?usp=drive_link))]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
