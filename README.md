@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahuldhakad201.rd@gmail.com**
 
-- 📄 Know about my experiences/Resume ([https://drive.google.com/file/d/1LLMXLclyYth2WfIEkxIYcJChubP0jhcs/view?usp=drive_link])
+- 📄 Know about my experiences/Resume ([https://drive.google.com/file/d/1kwBzWyOBUuY9V2NlYtoxify0JwPXeuY6/view?usp=drive_link])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
